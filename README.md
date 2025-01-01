@@ -44,7 +44,7 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
-</br>
+
 ![image](https://github.com/user-attachments/assets/bbdd9209-0bd8-4c66-b24e-cc8e4b8a8e97)
 
 
